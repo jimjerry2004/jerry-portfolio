@@ -12,7 +12,7 @@ export default function Skills() {
   return (
     <>
       <Head>
-        <title>Skills | Ong'onge Jim Jerry</title>
+        <title>Skills | Ong&apos;onge Jim Jerry</title>
       </Head>
 
       <Navbar />

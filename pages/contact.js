@@ -7,7 +7,7 @@ export default function Contact() {
   return (
     <>
       <Head>
-        <title>Contact | Ong'onge Jim Jerry</title>
+        <title>Contact | Ong&apos;onge Jim Jerry</title>
       </Head>
 
       <Navbar />

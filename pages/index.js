@@ -1,12 +1,13 @@
 import Head from "next/head";
 import { motion } from "framer-motion";
 import Navbar from "../components/Navbar";
+import Image from 'next/image';
 
 export default function Home() {
   return (
     <>
       <Head>
-        <title>Ong'onge Jim Jerry | Electrical Engineer</title>
+        <title>Ong&apos;onge Jim Jerry | Electrical Engineer</title>
         <meta name="description" content="Portfolio of Ong'onge Jim Jerry, Electrical and Electronics Engineering student specializing in IoT and Renewable Energy" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -23,7 +24,7 @@ export default function Home() {
               className="hero-content"
             >
               <div className="hero-text">
-                <h1>Ong'onge Jim Jerry</h1>
+                <h1>Ong&apos;onge Jim Jerry</h1>
                 <h2>Electrical & Electronics Engineer</h2>
                 <p className="subtitle">
                   Specializing in IoT Systems, Renewable Energy, and Automation
@@ -34,7 +35,7 @@ export default function Home() {
                   </a>
                   <a 
                     href="/cv.pdf" 
-                    download="Ong'onge_Jim_Jerry_CV.pdf"
+                    download="Ong&apos;onge_Jim_Jerry_CV.pdf"
                     className="btn secondary"
                   >
                     Download CV
@@ -46,10 +47,15 @@ export default function Home() {
                 transition={{ type: "spring", stiffness: 300 }}
                 className="hero-image"
               >
-                <img 
-                  src="/images/profile.jpg" 
-                  alt="Ong'onge Jim Jerry" 
-                />
+              
+<img
+  src="/profile.jpg"
+  alt="Ong&apos;onge Jim Jerry"
+  width="500"
+  height="300"
+  className="jsx-ed49ac7a46151710"
+/>
+                
               </motion.div>
             </motion.div>
           </div>
