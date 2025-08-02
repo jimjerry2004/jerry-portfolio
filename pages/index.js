@@ -6,8 +6,8 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Ong'onge Jim Jerry | Electrical Engineer</title>
-        <meta name="description" content="Portfolio of Ong'onge Jim Jerry, Electrical and Electronics Engineering student specializing in IoT and Renewable Energy" />
+        <title>Ong\'onge Jim Jerry | Electrical Engineer</title>
+        <meta name="description" content="Portfolio of Ong\'onge Jim Jerry, Electrical and Electronics Engineering student specializing in IoT and Renewable Energy" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -23,7 +23,7 @@ export default function Home() {
               className="hero-content"
             >
               <div className="hero-text">
-                <h1>Ong'onge Jim Jerry</h1>
+                <h1>Ong\'onge Jim Jerry</h1>
                 <h2>Electrical & Electronics Engineer</h2>
                 <p className="subtitle">
                   Specializing in IoT Systems, Renewable Energy, and Automation
@@ -34,7 +34,7 @@ export default function Home() {
                   </a>
                   <a 
                     href="/cv.pdf" 
-                    download="Ong'onge_Jim_Jerry_CV.pdf"
+                    download="Ong\'onge_Jim_Jerry_CV.pdf"
                     className="btn secondary"
                   >
                     Download CV
@@ -48,7 +48,7 @@ export default function Home() {
               >
                 <img 
                   src="/images/profile.jpg" 
-                  alt="Ong'onge Jim Jerry" 
+                  alt="Ong\'onge Jim Jerry" 
                 />
               </motion.div>
             </motion.div>
