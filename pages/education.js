@@ -8,7 +8,7 @@ export default function Education() {
   return (
     <>
       <Head>
-        <title>Education | Ong\'onge Jim Jerry</title>
+        <title>Education | Ong'onge Jim Jerry</title>
       </Head>
 
       <Navbar />

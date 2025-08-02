@@ -25,7 +25,7 @@ export default function Navbar() {
       <div className="container">
         <div className="nav-content">
           <Link href="/" className="logo">
-            <span>Ong\'onge Jim Jerry</span>
+            <span>Ong'onge Jim Jerry</span>
           </Link>
           
           <div className="nav-links">

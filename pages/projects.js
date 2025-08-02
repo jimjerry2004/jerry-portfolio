@@ -8,7 +8,7 @@ export default function Projects() {
   return (
     <>
       <Head>
-        <title>Projects | Ong\'onge Jim Jerry</title>
+        <title>Projects | Ong'onge Jim Jerry</title>
       </Head>
 
       <Navbar />
