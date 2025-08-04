@@ -48,14 +48,10 @@ export default function Home() {
                 className="hero-image"
               >
               
-<img
-  src="/profile.jpg"
-  alt="Ong&apos;onge Jim Jerry"
-  width="500"
-  height="300"
-  className="jsx-ed49ac7a46151710"
-/>
-                
+              <img 
+                  src="/images/profile.jpg" 
+                  alt="Ong&apos;onge Jim Jerry" 
+                />
               </motion.div>
             </motion.div>
           </div>
